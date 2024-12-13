@@ -30,7 +30,7 @@
     "@floating-ui/react-dom-interactions": "^0.11.0",
     "@grpc/grpc-js": "^1.9.2",
     "@grpc/proto-loader": "^0.7.7",
-    "@keplr-wallet/types": "^0.11.49",
+    "@keplr-wallet/types": "^0.12.156",
     "@mui/material": "^5.10.0",
     "@mui/x-date-pickers": "^5.0.0-beta.5",
     "@reduxjs/toolkit": "^1.8.0",
