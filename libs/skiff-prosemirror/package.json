@@ -110,7 +110,7 @@
     "dompurify": "2.3.10",
     "emoji-mart": "^3.0.0",
     "eventemitter3": "^4.0.7",
-    "katex": "0.13.18",
+    "katex": "0.16.21",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
     "nightwatch-ui": "workspace:libs/nightwatch-ui",
