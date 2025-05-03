@@ -203,7 +203,7 @@
     "body-parser": "^1.20.0",
     "bree": "^9.1.2",
     "buffer": "^6.0.3",
-    "cabin": "^9.1.2",
+    "cabin": "^10.0.3",
     "classnames": "^2.3.1",
     "comlink": "^4.3.1",
     "core-js": "^3.6.5",
