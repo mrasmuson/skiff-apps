@@ -165,7 +165,7 @@
     "@emotion/styled": "^11.6.0",
     "@google-cloud/pubsub": "^4.0.5",
     "@ladjs/graceful": "^3.0.2",
-    "@mui/material": "^5.10.0",
+    "@mui/material": "^7.0.0",
     "@npmcli/fs": "^2.1.1",
     "@opentelemetry/instrumentation-graphql": "0.31.0",
     "@reduxjs/toolkit": "^1.8.0",
