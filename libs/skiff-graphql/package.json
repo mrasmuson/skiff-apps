@@ -33,8 +33,8 @@
   },
   "dependencies": {
     "@apollo/client": "^3.6.9",
-    "@graphql-codegen/cli": "^2.6.2",
-    "@graphql-codegen/typescript": "^2.4.11",
+    "@graphql-codegen/cli": "^4.0.0",
+    "@graphql-codegen/typescript": "^4.0.0",
     "apollo-server-errors": "^3.3.1",
     "graphql": "16.8.1",
     "skiff-utils": "workspace:libs/skiff-utils",
