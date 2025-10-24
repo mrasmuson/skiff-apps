@@ -139,7 +139,7 @@
     "react-pdf": "^5.7.2",
     "react-qrcode-logo": "^2.7.0",
     "react-spinners": "^0.13.3",
-    "react-syntax-highlighter": "^15.5.0",
+    "react-syntax-highlighter": "^16.0.0",
     "react-window": "^1.8.9",
     "rfc2047": "^4.0.1",
     "secure-remote-password": "^0.3.1",
