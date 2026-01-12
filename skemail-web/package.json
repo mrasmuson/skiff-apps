@@ -97,7 +97,7 @@
     "immer": "^9.0.12",
     "io-ts": "^2.2.20",
     "jest-canvas-mock": "^2.4.0",
-    "jspdf": "^2.5.1",
+    "jspdf": "^4.0.0",
     "jszip": "^3.10.1",
     "launchdarkly-react-client-sdk": "^2.29.2",
     "lodash": "^4.17.21",
